@@ -36,6 +36,8 @@ This repository explores:
 ## Tools
 
 - SAP
+- SAP ABAP Programming
+- SAP script
 - Excel
 - Power Query
 - Python
