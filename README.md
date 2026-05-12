@@ -1,4 +1,5 @@
-# AI for Controlling
+# AI-Finance-Automation
+
 
 AI-assisted finance and controlling workflows using SAP, Excel, Power Query, Python, and large language models (LLMs).
 
@@ -60,3 +61,7 @@ Power BI and Power Query workflows for controlling reports.
 
 Work in progress.
 Learning and building practical finance automation workflows.
+
+## Disclaimer
+
+All datasets, company names, and financial figures in this repository are anonymized or fictionalized for demonstration purposes only.
